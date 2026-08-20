@@ -53,7 +53,7 @@ Specifically, this analysis is conducted on a tailored subset of the dataset (ac
 
 ### Quick Start:
 
-'''bash
+```bash
 # Clone the repository
 git clone https://github.com/giuliadesantis/Customer_segmentation_pca_kmeans.git
 
@@ -65,4 +65,4 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook notebooks/HWpca2526_DeSantis.ipynb
-'''
+```
