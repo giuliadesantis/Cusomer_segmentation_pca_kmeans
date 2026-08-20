@@ -47,18 +47,6 @@ Specifically, this analysis is conducted on a tailored subset of the dataset (ac
 
 ---
 
-## 📈 Key Findings & Visualizations
-
-| Cumulative Explained Variance | Cluster Separation in PC Space |
-| :---: | :---: |
-| ![Scree Plot](graphs/scree_plot.png) | ![Cluster Biplot](graphs/cluster_profiles.png) |
-
-### Extracted Latent Dimensions:
-- **PC1 (Social & Extroversion vs. Analytical & Introversion):** High positive loadings on socializing, hobbies, and sports; negative loadings on STEM interests and internet usage.
-- **PC2 (Hedonism & Appearance Spending vs. Frugality & Organization):** High loadings on branded clothing, appearance spending, and entertainment.
-
----
-
 ## 🛠️ Tech Stack & Requirements
 - **Language:** Python 3.9+
 - **Core Libraries:** `numpy`, `pandas`, `scikit-learn`, `scipy`, `matplotlib`, `seaborn`
