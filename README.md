@@ -52,10 +52,11 @@ Specifically, this analysis is conducted on a tailored subset of the dataset (ac
 - **Core Libraries:** `numpy`, `pandas`, `scikit-learn`, `scipy`, `matplotlib`, `seaborn`
 
 ### Quick Start:
-```bash
 # Clone the repository
-git clone [https://github.com/](https://github.com/)<YOUR-USERNAME>/customer-segmentation-pca-kmeans.git
-cd customer-segmentation-pca-kmeans
+git clone https://github.com/giuliadesantis/Customer_segmentation_pca_kmeans.git
+
+# Navigate into the project folder
+cd Customer_segmentation_pca_kmeans
 
 # Install dependencies
 pip install -r requirements.txt
