@@ -45,13 +45,15 @@ Specifically, this analysis is conducted on a tailored subset of the dataset (ac
 - Validation using **Silhouette Score** and **Inertia Elbow Curves**.
 - Characterization of resulting clusters across music/movie tastes, spending behavior, and demographic traits.
 
----
+ 
 
 ## 🛠️ Tech Stack & Requirements
 - **Language:** Python 3.9+
 - **Core Libraries:** `numpy`, `pandas`, `scikit-learn`, `scipy`, `matplotlib`, `seaborn`
 
 ### Quick Start:
+
+'''bash
 # Clone the repository
 git clone https://github.com/giuliadesantis/Customer_segmentation_pca_kmeans.git
 
@@ -63,3 +65,4 @@ pip install -r requirements.txt
 
 # Run Jupyter Notebook
 jupyter notebook notebooks/HWpca2526_DeSantis.ipynb
+'''
